@@ -1,0 +1,6 @@
+{
+  "name": "workiq-preview",
+  "version": "3.1.2",
+  "description": "Preview WorkIQ for Microsoft 365 mail, calendar, Teams, files, SharePoint, people, Planner and Business Applications. Use retrieve with explicit Grounding to find evidence and summarize locally. Use ask only for a requested Copilot or named-agent answer; use entity tools for specific reads and operations, with confirmation before mutations. If workiq and workiq-preview are both installed, prefer workiq-preview only if its installed version is higher than workiq's; otherwise prefer workiq.",
+  "skills": "./skills/"
+}
